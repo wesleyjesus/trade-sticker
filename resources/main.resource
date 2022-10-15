@@ -1,10 +1,10 @@
 *** Settings ***
-Documentation        Arquivo principal do projeto
+Documentation       Arquivo principal do projeto
 
-Library              Browser
+Library             Browser
+Resource            pages/login.resource
+Resource            pages/dashboard.resource
 
-Resource        pages/login.resource
-Resource        pages/dashboard.resource
 
 *** Keywords ***
 Fazer Login
@@ -13,8 +13,8 @@ Fazer Login
     Usuario Logado
 
 Iniciar Test
-    New Browser      headless=true
+    New Browser    headless=false
 
 Finalizar Test
-    Sleep            1
+    Sleep    1
     Take Screenshot

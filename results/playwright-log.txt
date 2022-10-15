@@ -1,0 +1,52 @@
+{"level":30,"time":"2022-10-14T20:24:49.351Z","pid":3044,"hostname":"CASA-PC","msg":"Listening on 51771"}
+{"level":30,"time":"2022-10-14T20:24:49.783Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:49.818Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:49.824Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:49.824Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:49.847Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-10-14T20:24:51.789Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-10-14T20:24:51.811Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-10-14T20:24:51.811Z","pid":3044,"hostname":"CASA-PC","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-10-14T20:24:51.832Z","pid":3044,"hostname":"CASA-PC","msg":"Changed active context"}
+{"level":30,"time":"2022-10-14T20:24:52.366Z","pid":3044,"hostname":"CASA-PC","msg":"Video path: undefined"}
+{"level":30,"time":"2022-10-14T20:24:52.366Z","pid":3044,"hostname":"CASA-PC","msg":"Changed active page"}
+{"level":30,"time":"2022-10-14T20:24:53.662Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method newPage"}
+{"level":30,"time":"2022-10-14T20:24:53.673Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method clearText"}
+{"level":30,"time":"2022-10-14T20:24:53.673Z","pid":3044,"hostname":"CASA-PC","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2022-10-14T20:24:53.721Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method clearText"}
+{"level":30,"time":"2022-10-14T20:24:53.725Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method clearText"}
+{"level":30,"time":"2022-10-14T20:24:53.725Z","pid":3044,"hostname":"CASA-PC","msg":"Strict mode is enabled, find Locator with css=input[name=password] in page."}
+{"level":30,"time":"2022-10-14T20:24:53.742Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method clearText"}
+{"level":30,"time":"2022-10-14T20:24:53.745Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method click"}
+{"level":30,"time":"2022-10-14T20:24:53.746Z","pid":3044,"hostname":"CASA-PC","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
+{"level":30,"time":"2022-10-14T20:24:53.799Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method click"}
+{"level":30,"time":"2022-10-14T20:24:53.813Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-10-14T20:24:53.813Z","pid":3044,"hostname":"CASA-PC","msg":"Strict mode is enabled, find Locator with css=.Toastify__toast-body div >> text=Por favor, informe suas credenciais! in page."}
+{"level":30,"time":"2022-10-14T20:24:53.833Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-10-14T20:24:54.858Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-10-14T20:24:55.403Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-10-14T20:24:55.415Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:55.429Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:55.433Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:55.441Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:55.445Z","pid":3044,"hostname":"CASA-PC","msg":"Changed active context"}
+{"level":30,"time":"2022-10-14T20:24:55.445Z","pid":3044,"hostname":"CASA-PC","msg":"Changing current active page"}
+{"level":30,"time":"2022-10-14T20:24:55.445Z","pid":3044,"hostname":"CASA-PC","msg":"Changed active page"}
+{"level":30,"time":"2022-10-14T20:24:55.454Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:55.458Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:55.461Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-10-14T20:24:55.462Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-10-14T20:24:55.464Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-10-14T20:24:55.465Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-10-14T20:24:55.470Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:55.471Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:55.475Z","pid":3044,"hostname":"CASA-PC","msg":"Changed active context"}
+{"level":30,"time":"2022-10-14T20:24:55.475Z","pid":3044,"hostname":"CASA-PC","msg":"Changing current active page"}
+{"level":30,"time":"2022-10-14T20:24:55.476Z","pid":3044,"hostname":"CASA-PC","msg":"Changed active page"}
+{"level":30,"time":"2022-10-14T20:24:55.480Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-10-14T20:24:55.493Z","pid":3044,"hostname":"CASA-PC","msg":"Removed page=f5775455-3398-4b55-9858-878639b8635e from context=59ace50f-e947-486f-9ca1-b398aaa77139 page stack"}
+{"level":30,"time":"2022-10-14T20:24:55.548Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-10-14T20:24:55.616Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:55.616Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-14T20:24:56.530Z","pid":3044,"hostname":"CASA-PC","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-10-14T20:24:56.899Z","pid":3044,"hostname":"CASA-PC","msg":"End of node method closeAllBrowsers"}
